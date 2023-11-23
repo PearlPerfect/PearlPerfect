@@ -1,5 +1,5 @@
 ### Hi there my name is Imo Emmanuel Udoh 👋
-### I am a Front-End Developer
+### I am a Web Developer
 
 
 
