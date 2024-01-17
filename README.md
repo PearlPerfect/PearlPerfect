@@ -7,7 +7,7 @@
 - - 🌱 I’m currently learning python
 - 🌱 I’m currently learning nest.js
 - 👯 I’m looking to collaborate on any frontend projects and projects involving Node.js
-- 🤔 I’m looking for help with how to install docker desktop
+- 🤔 I’m looking to connect with developers
 - 💬 Ask me about anything related to web Development
 - 📫 How to reach me: perfectpearl2030@gmail.com
 - 😄 Pronouns: She
