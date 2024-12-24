@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on google authentication with nest.js
-- - 🌱 I’m currently learning python
+- 🌱 I’m currently learning php
 - 🌱 I’m currently learning nest.js
 - 👯 I’m looking to collaborate on any frontend projects and projects involving Node.js
 - 🤔 I’m looking to connect with developers
